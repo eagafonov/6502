@@ -9572,7 +9572,7 @@
 		)
 	)
 	(gr_text "CPU"
-		(at 62.865 134.62 0)
+		(at 78.74 162.56 0)
 		(layer "F.SilkS")
 		(uuid "506bc477-cb5f-4365-928a-d6e1fdd4bc7a")
 		(effects
@@ -9642,7 +9642,7 @@
 		)
 	)
 	(gr_text "ROM"
-		(at 134.62 109.855 0)
+		(at 138.43 107.95 0)
 		(layer "F.SilkS")
 		(uuid "564c59ec-32e8-4ad0-95cc-b3fa225ddb61")
 		(effects
@@ -10118,7 +10118,7 @@
 		)
 	)
 	(gr_text "RAM"
-		(at 109.855 119.38 0)
+		(at 113.03 162.56 0)
 		(layer "F.SilkS")
 		(uuid "acc71bd5-d5ae-4478-abdb-4e2891086845")
 		(effects
